@@ -1,0 +1,1 @@
+{"name":"shorts-generator","version":"1.0.0","type":"module","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"@anthropic-ai/sdk":"^0.60.0","express":"^4.19.2","express-rate-limit":"^7.4.0","nanoid":"^5.0.7","openai":"^4.67.0"}}
